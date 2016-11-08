@@ -1,0 +1,9 @@
+Building VaderCorpCoin
+
+See doc/readme-qt.rst for instructions on building VaderCorpCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of VaderCorpCoin.
+
+See doc/build-*.txt for instructions on building vadercorpcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of VaderCorpCoin.
